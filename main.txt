@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 The First approached the Elephant, 
     And happening to fall 
@@ -25,4 +26,11 @@ The Fourth reached out an eager hand,
     Is mighty plain,” quoth he; “ 
 ’Tis clear enough the Elephant 
     Is very like a tree!” 
->>>>>>> 09b999176956c7f3fdb8969b201e471a7325fa21
+
+The Fifth who chanced to touch the ear, 
+    Said: “E’en the blindest man 
+Can tell what this resembles most; 
+    Deny the fact who can, 
+This marvel of an 
+    Elephant Is very like a fan!” 
+>>>>>>> ef35b16d36153b6b94d23b09d6396d75a94d6f6f
